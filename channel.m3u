@@ -1,4 +1,3 @@
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/7yzvm7sbfsk3t28p8uhbo/TPL3.png?rlkey=hzebkj6d8obytcb2y8asj5dz4&dl=0" group-title="SPORT",TPL-3(livescorethai)
-#EXTVLCOPT:http-referrer=https://www.oha.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://www.oha.to/play/3640268356/index.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1695331830.png" group-title="GKKEELA",PPV1
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/ppv1/playlist.m3u8
